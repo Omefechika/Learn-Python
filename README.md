@@ -1,2 +1,2 @@
-# Learn-Python
-A brush-up on python basics for data analysis
+# Python-Data_Analysis
+Learning python for data processing
